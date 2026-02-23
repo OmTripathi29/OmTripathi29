@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently learning Kotlin<br>I am looking to collaborate on backend(Python)<br>I am looking for help with AI/ML<br>Ask me about app development and AI Agents<br>I am a gamer too<br><br>
+I am currently learning Kotlin 🚀📱<br>
+I am looking to collaborate on backend (Python) 🐍💻<br>
+I am looking for help with AI/ML 🤖🧠<br>
+Ask me about app development and AI Agents 📲⚡<br>
+I am a gamer too 🎮🔥<br>
 
 
 ## 🌐 Socials:
